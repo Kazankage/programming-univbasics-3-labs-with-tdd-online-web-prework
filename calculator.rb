@@ -2,3 +2,4 @@
 first_number = 26
 second_number = 25
 sum = 51
+difference = 1
